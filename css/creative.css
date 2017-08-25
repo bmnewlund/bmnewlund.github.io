@@ -119,10 +119,10 @@ body {
       #mainNav .navbar-brand {
         color: black; }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-          color: white; }
+          color: #e60000; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link,
       #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-        color: rgba(255, 255, 255, 0.7); }
+        color: #e60000; }
         #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
         #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
           color: white; }
@@ -147,7 +147,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("../img/antelope_mountain.jpg");
+  background-image: url("../img/oceanRocks.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
